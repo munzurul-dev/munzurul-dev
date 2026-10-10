@@ -1,79 +1,80 @@
 
-<!-- =====================================================
-     MUHAMMAD MUNZURUL | DEVELOPER PROFILE
-     Theme: Midnight + Neon Cyan + Emerald
-====================================================== -->
+<!-- ==================================================
+     MUHAMMAD MUNZURUL | GITHUB PROFILE
+     Design: Midnight / Cyan / Minimal
+=================================================== -->
 
-<!-- ==================== HERO ==================== -->
+<!-- HERO -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020617,35:0F172A,70:164E63,100:06B6D4&text=MUNZURUL&fontColor=FFFFFF&fontSize=68&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=62&animation=fadeIn&stroke=22D3EE&strokeWidth=1" alt="Munzurul Developer Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0F172A,75:164E63,100:0891B2&text=MUHAMMAD%20MUNZURUL&fontColor=FFFFFF&fontSize=43&fontAlignY=43&desc=ASPIRING%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=62&animation=fadeIn&stroke=22D3EE&strokeWidth=1" alt="Muhammad Munzurul"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Experiences;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Turning+Ideas+Into+Projects;Learning+Every+Day.+Growing+Every+Day." alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning.+Building.+Improving." alt="Developer tagline"/>
 
 <br/><br/>
 
 <a href="https://github.com/munzurul-dev">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/>
 </a>
 <a href="mailto:muhammadmunzurul@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-LET'S%20CONNECT-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact me"/>
+<img src="https://img.shields.io/badge/Email-Get%20In%20Touch-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-052E16?style=flat-square&logo=rocket&logoColor=4ADE80" alt="Learning and building"/>
-<img src="https://img.shields.io/badge/FOCUS-MERN%20STACK-082F49?style=flat-square&logo=javascript&logoColor=22D3EE" alt="MERN stack focus"/>
-<img src="https://komarev.com/ghpvc/?username=munzurul-dev&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ==================== ABOUT ==================== -->
+<!-- WHO I AM -->
 
 <div align="center">
 
-## ✦ BEHIND THE CODE ✦
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:164E63&height=2&section=header" width="100%" alt="Section divider"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Muhammad+Munzurul+%F0%9F%91%8B;Aspiring+Full+Stack+MERN+Developer;Dream+Big.+Code+Daily.+Stay+Consistent." alt="Animated introduction"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1500&color=67E8F9&center=true&vCenter=true&width=500&lines=WHO+I+AM;A+DEVELOPER+IN+PROGRESS" alt="Who I am heading"/>
+
+<br/>
 
 </div>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
-### 👨‍💻 Who Am I?
+<h3>Building my future through code.</h3>
 
-I'm **Muhammad Munzurul**, a web development learner from Bangladesh 🇧🇩 with a passion for creating modern, responsive, and user-friendly web experiences.
+I'm **Muhammad Munzurul**, a web development learner from Bangladesh with a strong interest in building modern web applications.
 
-I enjoy turning ideas into working projects, exploring new technologies, and improving my coding skills through hands-on practice.
+My journey is focused on understanding how the frontend and backend work together to create useful digital experiences.
 
-- ⚛️ Building interfaces with React.
-- 🧩 Practicing JavaScript and problem-solving.
-- 🔌 Learning REST APIs and CRUD operations.
-- 🟢 Exploring Node.js and Express.js.
-- 🍃 Working with MongoDB.
-- 🎯 Working towards becoming a professional Full Stack Developer.
+I believe in learning through practice, building real projects, and improving a little every day.
+
+<br/>
+
+**Currently focused on**
+
+- Frontend development with React and JavaScript
+- REST APIs and CRUD operations
+- Backend development with Node.js and Express.js
+- Database management with MongoDB
+- Writing cleaner, more maintainable code
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/munzurul-dev.png" width="155" alt="Munzurul GitHub avatar"/>
+<img src="https://github.com/munzurul-dev.png" width="160" alt="Muhammad Munzurul profile picture"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BASED%20IN-BANGLADESH-0F172A?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Bangladesh"/>
+<img src="https://img.shields.io/badge/BASED_IN-BANGLADESH-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2" alt="Based in Bangladesh"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MINDSET-NEVER%20STOP%20LEARNING-0F172A?style=flat-square&logo=rocket&logoColor=4ADE80" alt="Learning mindset"/>
+<img src="https://img.shields.io/badge/CAREER_GOAL-FULL_STACK-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2" alt="Career goal"/>
 
 </td>
 </tr>
@@ -81,33 +82,29 @@ I enjoy turning ideas into working projects, exploring new technologies, and imp
 
 <div align="center">
 
+<br/>
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/01-0891B2?style=for-the-badge" alt="01"/>
+<img src="https://img.shields.io/badge/01-LEARN-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2" alt="Learn"/>
 
-**LEARN**
-
-<sub>Explore new technologies</sub>
+<sub>Understand the fundamentals.</sub>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/02-0891B2?style=for-the-badge" alt="02"/>
+<img src="https://img.shields.io/badge/02-BUILD-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2" alt="Build"/>
 
-**BUILD**
-
-<sub>Create real projects</sub>
+<sub>Turn ideas into projects.</sub>
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/03-0891B2?style=for-the-badge" alt="03"/>
+<img src="https://img.shields.io/badge/03-IMPROVE-0F172A?style=for-the-badge&labelColor=0F172A&color=0891B2" alt="Improve"/>
 
-**IMPROVE**
-
-<sub>Grow with every commit</sub>
+<sub>Grow through consistency.</sub>
 
 </td>
 </tr>
@@ -115,69 +112,49 @@ I enjoy turning ideas into working projects, exploring new technologies, and imp
 
 <br/>
 
-> *"Great things are built one step at a time."*
->
-> **In shaa Allah — keep learning, keep building. 🚀**
+<i>“Great things are built one step at a time.”</i>
 
 </div>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- TECH STACK -->
 
 <div align="center">
 
-## ⚡ TECH ARSENAL
+## Tech Stack
 
-<p>Technologies I'm learning and using to build web applications.</p>
+<p>Technologies I use and explore while developing web applications.</p>
 
-</div>
+<br/>
 
-### 🎨 Frontend
+### Frontend
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Frontend technologies"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" alt="Frontend technology icons"/>
+<br/><br/>
 
-</div>
+### Backend & Database
 
-### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend technologies"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and database icons"/>
+### Tools
 
-</div>
-
-### 🧰 Developer Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm&theme=dark" alt="Developer tools"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=black" alt="Express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm&theme=dark" alt="Development tools"/>
 
 </div>
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
+<!-- FEATURED PROJECTS -->
 
 <div align="center">
 
-## 🚀 SELECTED PROJECTS
+## Featured Projects
 
-<p>A showcase of my journey through frontend development and real-world web projects.</p>
+<p>A selection of projects from my web development journey.</p>
 
 </div>
 
@@ -185,74 +162,56 @@ I enjoy turning ideas into working projects, exploring new technologies, and imp
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <a href="https://github.com/munzurul-dev/Movie-Explorer">
-<img src="https://img.shields.io/badge/PROJECT%2001-MOVIE%20EXPLORER-111827?style=for-the-badge&logo=themoviedatabase&logoColor=22D3EE" alt="Movie Explorer"/>
+<img src="https://img.shields.io/badge/01-MOVIE%20EXPLORER-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Movie Explorer"/>
 </a>
 
-<br/><br/>
+### Movie Explorer
 
-<img src="https://img.shields.io/badge/🎬-DISCOVER%20MOVIES-0F172A?style=flat-square" alt="Movie discovery"/>
+A movie discovery application built as part of my React learning journey.
 
-</div>
+**Focus areas**
 
-### 🎬 Movie Explorer
-
-A movie discovery project built while exploring React application development and movie data integration.
-
-**Highlights**
-- Movie discovery interface.
-- React-based application structure.
-- Practice with API-driven data.
+- React application development
+- Movie data and API integration
+- Dynamic user interfaces
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <br/><br/>
 
-<a href="https://github.com/munzurul-dev/Movie-Explorer">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Movie Explorer"/>
-</a>
+<a href="https://github.com/munzurul-dev/Movie-Explorer">View Repository →</a>
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <a href="https://github.com/munzurul-dev/the-dragon-news">
-<img src="https://img.shields.io/badge/PROJECT%2002-THE%20DRAGON%20NEWS-111827?style=for-the-badge&logo=googlenews&logoColor=22D3EE" alt="The Dragon News"/>
+<img src="https://img.shields.io/badge/02-THE%20DRAGON%20NEWS-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="The Dragon News"/>
 </a>
 
-<br/><br/>
+### The Dragon News
 
-<img src="https://img.shields.io/badge/📰-NEWS%20EXPERIENCE-0F172A?style=flat-square" alt="News experience"/>
+A news website project focused on presenting news content through a React-based interface.
 
-</div>
+**Focus areas**
 
-### 📰 The Dragon News
-
-A news website project focused on displaying news content in a clean, organized interface.
-
-**Highlights**
-- News browsing experience.
-- React components and layouts.
-- Routing and content presentation practice.
+- Reusable React components
+- Content presentation
+- Routing and page layouts
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <br/><br/>
 
-<a href="https://github.com/munzurul-dev/the-dragon-news">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Dragon News"/>
-</a>
+<a href="https://github.com/munzurul-dev/the-dragon-news">View Repository →</a>
 
 </div>
 
@@ -262,75 +221,57 @@ A news website project focused on displaying news content in a clean, organized 
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <a href="https://github.com/munzurul-dev/app-dock-io">
-<img src="https://img.shields.io/badge/PROJECT%2003-APPDOCK.IO-111827?style=for-the-badge&logo=appstore&logoColor=22D3EE" alt="AppDock.io"/>
+<img src="https://img.shields.io/badge/03-APPDOCK.IO-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="AppDock.io"/>
 </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📱-APP%20DISCOVERY-0F172A?style=flat-square" alt="App discovery"/>
-
-</div>
-
-### 📱 AppDock.io
+### AppDock.io
 
 A modern platform for discovering, exploring, installing, and managing apps.
 
-**Highlights**
-- Modern application interface.
-- Responsive React and Vite setup.
-- Tailwind CSS-based styling.
+**Focus areas**
+
+- Responsive user interface
+- Modern React and Vite workflow
+- Tailwind CSS styling
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/VITE-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 
 <br/><br/>
 
-<a href="https://github.com/munzurul-dev/app-dock-io">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore AppDock"/>
-</a>
+<a href="https://github.com/munzurul-dev/app-dock-io">View Repository →</a>
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 <a href="https://github.com/munzurul-dev/greennest-plant-care">
-<img src="https://img.shields.io/badge/PROJECT%2004-GREENNEST-111827?style=for-the-badge&logo=leaflet&logoColor=4ADE80" alt="GreenNest Plant Care"/>
+<img src="https://img.shields.io/badge/04-GREENNEST%20PLANT%20CARE-0F172A?style=for-the-badge&logo=github&logoColor=4ADE80" alt="GreenNest Plant Care"/>
 </a>
 
-<br/><br/>
+### GreenNest Plant Care
 
-<img src="https://img.shields.io/badge/🌱-PLANT%20CARE-0F172A?style=flat-square" alt="Plant care"/>
+A plant-care project focused on presenting plant-related information and exploring plants.
 
-</div>
+**Focus areas**
 
-### 🌱 GreenNest Plant Care
-
-A plant-care web project focused on exploring plants and presenting plant-related information.
-
-**Highlights**
-- Plant discovery and information.
-- Responsive interface development.
-- Practice with React application routing.
+- Plant information and discovery
+- React-based interface
+- Application routing and layouts
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 <br/><br/>
 
-<a href="https://github.com/munzurul-dev/greennest-plant-care">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore GreenNest"/>
-</a>
+<a href="https://github.com/munzurul-dev/greennest-plant-care">View Repository →</a>
 
 </div>
 
@@ -343,107 +284,115 @@ A plant-care web project focused on exploring plants and presenting plant-relate
 <br/>
 
 <a href="https://github.com/munzurul-dev?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="All repositories"/>
 </a>
 
 </div>
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- GITHUB ANALYTICS -->
 
 <div align="center">
 
-## 📊 GITHUB ANALYTICS
+## GitHub Analytics
 
-<p>A live snapshot of my public GitHub activity.</p>
+<p>A snapshot of my public GitHub activity.</p>
 
 <a href="https://github.com/munzurul-dev">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=munzurul-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=munzurul-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/munzurul-dev">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munzurul-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Top languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munzurul-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=munzurul-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" alt="GitHub streak statistics"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=munzurul-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE" alt="GitHub streak"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munzurul-dev&bg_color=0D1117&color=67E8F9&line=0891B2&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munzurul-dev&bg_color=0D1117&color=67E8F9&line=0891B2&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-<!-- ==================== CURRENT JOURNEY ==================== -->
+<!-- CURRENT FOCUS -->
 
 <div align="center">
 
-## 🌌 THE JOURNEY CONTINUES
+## Currently Learning
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 📚 LEARN
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" alt="React"/>
 
-<sub>Strengthen my fundamentals and explore new technologies.</sub>
+**React**
 
-</td>
-<td align="center" width="33%">
-
-### 💻 BUILD
-
-<sub>Turn knowledge into practical projects and experiences.</sub>
+<sub>Components & state</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 🚀 GROW
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="42" alt="Node.js"/>
 
-<sub>Improve my skills through consistent practice.</sub>
+**Node.js**
+
+<sub>Server-side JavaScript</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="42" alt="Express"/>
+
+**Express.js**
+
+<sub>REST APIs & CRUD</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="42" alt="MongoDB"/>
+
+**MongoDB**
+
+<sub>Database operations</sub>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=The+journey+is+just+getting+started;Consistency+over+perfection;In+shaa+Allah%2C+great+things+ahead!" alt="Journey animation"/>
-
 </div>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+<!-- CONTACT -->
 
 <div align="center">
 
-## 🤝 LET'S CONNECT
+## Connect With Me
 
-<p>Interested in web development, technology, or collaborating on projects?</p>
+<p>Interested in web development, technology, or sharing ideas? Feel free to connect.</p>
 
 <a href="https://github.com/munzurul-dev">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="mailto:muhammadmunzurul@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email me"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
+**Learning with purpose. Building with consistency.**
 
-**Dream big. Start small. Build consistently.**
+<i>In shaa Allah, the journey continues.</i>
 
-*Keep learning. Keep building. In shaa Allah, keep growing!*
+<br/><br/>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:164E63,100:020617&height=150&section=footer&animation=fadeIn" alt="Animated footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:020617&height=130&section=footer" alt="Footer"/>
 
 </div>
