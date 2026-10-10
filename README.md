@@ -313,7 +313,14 @@ A plant-care project focused on presenting plant-related information and explori
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munzurul-dev&bg_color=0D1117&color=67E8F9&line=0891B2&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+<a href="https://github.com/munzurul-dev">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=munzurul-dev&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</a>
+
 
 </div>
 
