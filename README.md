@@ -65,13 +65,6 @@ Plant-care project focused on plant information.
 
 <div align="center">
 
-## GitHub Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=munzurul-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<br/><br/>
-
-<a href="https://github.com/munzurul-dev?tab=repositories">Explore All Repositories →</a>
 
 <br/><br/>
 
